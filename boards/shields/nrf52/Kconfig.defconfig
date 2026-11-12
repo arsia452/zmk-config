@@ -1,0 +1,6 @@
+if SHIELD_NRF52
+
+config ZMK_KEYBOARD_NAME
+    default "test_board"
+
+endif # SHIELD_NRF52
