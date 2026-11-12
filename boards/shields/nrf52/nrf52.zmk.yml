@@ -16,4 +16,4 @@ features:
   - keys
 
 requires:
-  - pro_micro
+  - nice_nano_v2
